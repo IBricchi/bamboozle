@@ -1,0 +1,56 @@
+#bamboozleControll{
+	height: 14vh;
+	width: 100vw;
+	background-color: green;
+	top: 86vh;
+	position: fixed;
+	z-index: 10;
+}
+.bamboozleButtons{
+	margin-left: 24vw;
+	position: relative;
+	float: left;
+	width: 14vh;
+	height: 14vh;
+	border-radius: 7vh;
+	background-color: #3B5998;
+}
+#bamboozleContentColShow{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/0/0b/Facebook_Circle.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#bamboozleLeftColShow{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/79/Th_list_font_awesome.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.leftColShowOptionsButton{
+	height: 10vh;
+	width: 10vh;
+	border-radius: 5vh;
+	background-color: #3B5998;
+	background-size: contain;
+    background-repeat: no-repeat;
+}
+#leftColFavoriteButton{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/b4/Linecons_big-star.svg);
+}
+#leftColGroupButton{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/d/db/Group_full.svg);
+}
+#leftColBestFriendsButton{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/34/Linecons_heart-shape.svg);
+}
+#leftColAppsButton{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/a/a7/Video_game_controller_icon_designed_by_Maico_Amorim.svg);
+}
+#leftColInterestsButton{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/64/RibbonPrize.svg);
+}
+#leftColPagesButton{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/3/3f/Article_icon_cropped.svg);
+}
+#leftColEventsButton{
+	background-image: url(https://upload.wikimedia.org/wikipedia/commons/8/82/Calendar_Icon_v1.svg);
+}
